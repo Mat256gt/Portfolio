@@ -1,0 +1,45 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <title>Canvas</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <link href="https://fonts.googleapis.com/css?family=Sedgwick+Ave" rel="stylesheet">
+        <link type="text/css" rel="stylesheet" href="style/main.css">
+    </head>
+    <body>
+        <header>
+            <center>
+                <div class="header">
+                    <h1>CANVAS·<strong>PROJECT</strong></h1>
+                </div>
+            </center>
+        </header>
+        <main>
+            <div class="grid-container">
+                <div class="poststick 1" >
+                    <p>This is ten percent luck</p>
+                </div>
+                <div class="poststick 2">
+                    <p>Twenty percent skill</p>
+                </div>
+                <div class="poststick 3">
+                    <p>Fifteen percent concentrated power of will</p>
+                </div>
+                <div class="poststick 4">
+                    <p>Five percent pleasure</p>
+                </div>
+                <div class="poststick 5">
+                    <p>Fifty percent pain</p>
+                </div>
+                <div class="poststick 6">
+                    <p>And a hundred percent reason to remember the name</p>
+                </div>
+            </div>
+        </main>
+        <footer>
+            <div class="footer">
+            
+            </div>
+        </footer>
+    </body>
+</html>
