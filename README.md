@@ -1,6 +1,6 @@
 #📌 Portfolio
 
-Somos Matias Nieto Rodríguez y #Carlos Ponce Santana (Desarrollo de aplicaciones multiplataforma) donde hemos subido tres trabajos de html con sus respectivos css.
+Somos Matias Nieto Rodríguez y # Carlos Ponce Santana (Desarrollo de aplicaciones multiplataforma) donde hemos subido tres trabajos de html con sus respectivos css.
 Para poder disfutarlos solo tendreís que bajaros los proyectos y hacer cilck encima de ellos. Pero para poder editarlos vas a necesitar un editor de texto como visual studio.
 
 #📂 Estructura del Proyecto
