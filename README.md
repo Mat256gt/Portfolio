@@ -12,7 +12,7 @@ En este portfolio encontrarás algunos de nuestros numerosos proyectos en los cu
 
 📬 Contacto
 
-📧 Email: [hadrielputoamo@HOTmail.com]💼 LinkedIn: [linkedin.com/in/tuusuario]🐙 GitHub: [github.com/Mat256gt]🌍 Portafolio: [Portfolio]
+📧 Email: [matiasycarlos@gmail.com] 🐙 GitHub: [github.com/Mat256gt] 🌍 Portafolio: [Portfolio]
 
 📜 Licencia
 
