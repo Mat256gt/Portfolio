@@ -1,10 +1,10 @@
 💼 Mi Portfolio
 
-¡Hola! Soy [Tu Nombre], un [tu profesión o especialidad] apasionado por la tecnología y el desarrollo web. En este portfolio encontrarás algunos de mis proyectos más relevantes.
+¡Hola! somos  Matias Nieto Rodríguez y Carlos Ponce Santana, unos estudiantes del ciclo de DAM (Desarrollo de Aplicaciones Multiplataformas) apasionados por la tecnología y el desarrollo web. En este portfolio encontrarás algunos de mis proyectos más relevantes.
 
-🚀 Sobre Mí
+🚀 Sobre Nosotros
 
-Somos Matias Nieto Rodríguez y Carlos Ponce Santana unos desarrolladores con experiencia en edicion de paginas webs. Nos especializamos en Frontend, diseñando y prgramando de manera responsive cada pagina web. Nos encanta crear soluciones innovadoras y optimizadas para resolver problemas reales.
+Somos unos desarrolladores con experiencia en edicion de paginas webs. Nos especializamos en Frontend, diseñando y prgramando de manera responsive cada pagina web. Nos encanta crear soluciones innovadoras y optimizadas para resolver problemas reales.
 
 📂 Proyectos Destacados
 
